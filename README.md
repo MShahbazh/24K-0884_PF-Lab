@@ -1,2 +1,7 @@
-<h2 align="center">Hi, I'm Shahbaz 👋</h2>
-<h3 align="center">A first-year Computer Science student at FAST NUCES. I'm just starting my journey in the world of coding, and I'm super excited to learn and grow </h3>
+<h2 align="center">Hi 👋 </h2>
+<h3>I am Shahbaz</h3>
+<p>A first year CS student currently studying at FAST NUCES. I am just starting my journey into world of coding and currently learning basics of Programming and Computer Science.</p>
+
+
+
+
