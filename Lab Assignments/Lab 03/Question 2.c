@@ -12,5 +12,5 @@ int main (){
     a=b;
     b=c;
     printf("The value of a is %d, whereas the value of b is %d",a,b);
- return 0;
+    return 0;
 } 
