@@ -8,10 +8,6 @@ positive input) */
 
 
 
-
-
-
-
 #include<stdio.h>
 int main(){
     float Totalfuel, Totalprice, x; 
