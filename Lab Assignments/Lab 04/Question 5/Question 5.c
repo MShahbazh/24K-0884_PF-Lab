@@ -18,6 +18,7 @@ printf("\n Enter Customer id:");
 scanf("%d",&id);
 // printf("\n Enter your name:");
 // scanf(" %c",&name);
+// The char data type is only accepting the first letter of the name, as it stores only one charater. Therefore I didn't include the name as I didn't find any solution for this 
 printf("\n Enter the units consumed:");
 scanf("%f",&unit);
 if(unit<=199)
