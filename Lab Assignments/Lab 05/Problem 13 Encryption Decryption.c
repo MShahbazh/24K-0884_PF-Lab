@@ -3,13 +3,14 @@ Write a program that uses bitwise operators to perform encryption and decryption
 
 #include<stdio.h>
 int main(){
-    int a,b,c;
+    char a;
+    int b,c;
     c=245;
-    printf("Write the number to encrypt: ");
-    scanf("%d",&a);
+    printf("Write a character to encrypt: ");
+    scanf(" %c",&a);
     b=a^c;
     printf("\n Encrypted character: %d",b);
     a=b^c;
-   printf("\n Decrypted character: %d",a);
+   printf("\n Decrypted character: %c",a);
     return 0;
 }
