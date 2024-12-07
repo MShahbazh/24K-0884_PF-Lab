@@ -1,3 +1,5 @@
+/*Problem Statement: Write a program to dynamically allocate memory for an array of integers. Input the size of the array and the elements from the user, then calculate and display the sum of the elements. Free the allocated memory before the program ends.*/
+
 #include<stdio.h>
 #include<stdlib.h>
 int main(){

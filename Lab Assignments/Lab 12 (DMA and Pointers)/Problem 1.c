@@ -1,3 +1,5 @@
+/*Problem Statement: Create a program to calculate the average marks of a class of students using a structure. The program should ask for the number of students and input their details dynamically.*/
+
 #include <stdio.h>
 #include<stdlib.h>
 int main() {
@@ -25,6 +27,5 @@ int main() {
    }
    printf("\nThe average of class is: %d",count/n);
    free(ptr);
-
     return 0;
 }
